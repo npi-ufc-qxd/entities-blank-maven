@@ -12,7 +12,6 @@
 		<projeto>entities-blank-maven</projeto>
 	</properties>
 
-	<!-- In Project repository -->
 	<repositories>
 		<repository>
 			<id>entities</id>
